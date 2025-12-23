@@ -1,0 +1,8 @@
+{
+  "name": "Chat-I",
+  "description": "A WhatsApp-style messenger featuring real-time chat, media sharing, and Gemini-powered AI assistance with Live Voice mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
